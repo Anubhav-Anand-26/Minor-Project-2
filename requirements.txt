@@ -1,0 +1,7 @@
+ultralytics
+streamlit
+opencv-python
+pillow
+pandas
+plotly
+streamlit-authenticator
